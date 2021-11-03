@@ -61,7 +61,7 @@
     "sass-loader": "6.0.6",
     "style-it": "^2.0.0",
     "style-loader": "0.18.2",
-    "validator": "8.0.0",
+    "validator": "13.7.0",
     "webpack": "^4.43.0"
   },
   "devDependencies": {
