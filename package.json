@@ -40,7 +40,7 @@
     "material-ui-color-picker": "^3.5.1",
     "material-ui-pickers": "^2.2.4",
     "moment": "^1.1.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "node-sass-json-importer": "^3.3.1",
     "normalize.css": "7.0.0",
     "pdfmake": "^0.1.70",
