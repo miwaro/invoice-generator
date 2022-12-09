@@ -29,7 +29,7 @@
     "contentful": "^6.1.1",
     "css-loader": "0.28.4",
     "date-fns": "^2.16.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
     "history": "4.7.2",
     "html2canvas": "^1.0.0-rc.7",
